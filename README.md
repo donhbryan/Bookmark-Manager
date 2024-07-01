@@ -1,0 +1,1 @@
+THe intent of this project is to manage bookmarks external of the browser. this may allow bookmarks from mutliple browsers be managed centrally thereby eliminating duplicity and supporting a consistent organization
